@@ -1,2 +1,4 @@
-# mirage-city
-MIRAGE CITY — live pixel town with 10 simulated citizens
+# MIRAGE CITY
+
+Pixel town with 10 simulated citizens.
+Open index.html or the Vercel deployment.
